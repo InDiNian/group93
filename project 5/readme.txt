@@ -1,0 +1,1 @@
+本程序中使用了openssl中的hash函数
